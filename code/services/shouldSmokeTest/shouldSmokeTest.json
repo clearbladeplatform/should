@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,should",
+    "logging_enabled": "false",
+    "name": "shouldSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "shouldSmokeTest.js"
+}
